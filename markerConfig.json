@@ -821,9 +821,9 @@
           },
           "scale": 0.02500000037252903,
           "videoPositionOffset": {
-            "x": 1.0,
-            "y": 2.0,
-            "z": 1.0
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "videoScale": 4.0,
           "expandDistance": 0.5,
