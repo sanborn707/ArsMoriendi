@@ -821,15 +821,15 @@
           },
           "scale": 0.02500000037252903,
           "videoPositionOffset": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
+            "x": 1.0,
+            "y": 2.0,
+            "z": 1.0
           },
-          "videoScale": 2.0,
-          "expandDistance": 1.0,
+          "videoScale": 4.0,
+          "expandDistance": 0.5,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
-          "contractAngle": 30.0
+          "contractAngle": 60.0
         }
       ]
     }
