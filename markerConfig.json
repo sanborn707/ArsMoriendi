@@ -825,7 +825,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 4.0,
+          "videoScale": 2.0,
           "expandDistance": 0.5,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
