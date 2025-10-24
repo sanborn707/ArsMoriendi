@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-22T18:39:36Z",
+  "lastUpdated": "2025-10-24T11:37:35Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
@@ -17,13 +17,17 @@
             "y": 177.50717163085938,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "12",
@@ -37,13 +41,17 @@
             "y": 177.50717163085938,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 4.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "15",
@@ -57,13 +65,17 @@
             "y": 177.50717163085938,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "18",
@@ -77,13 +89,17 @@
             "y": 329.846435546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "19",
@@ -97,13 +113,17 @@
             "y": 329.846435546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 45.0
         },
         {
           "shotNumber": "20",
@@ -117,13 +137,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "21",
@@ -137,13 +161,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "24",
@@ -157,13 +185,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "26",
@@ -177,13 +209,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "30",
@@ -197,13 +233,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "33",
@@ -217,13 +257,17 @@
             "y": 265.8505859375,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "34",
@@ -237,13 +281,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "40",
@@ -257,13 +305,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "42",
@@ -277,13 +329,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "51",
@@ -297,13 +353,17 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "55",
@@ -317,13 +377,17 @@
             "y": 270.27008056640627,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "57A",
@@ -337,13 +401,17 @@
             "y": 270.27008056640627,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "60",
@@ -357,13 +425,17 @@
             "y": 270.27008056640627,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "61",
@@ -377,13 +449,17 @@
             "y": 270.27008056640627,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         },
         {
           "shotNumber": "66",
@@ -397,38 +473,334 @@
             "y": 178.711669921875,
             "z": 358.234619140625
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.019999999552965165,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 45.0
         }
       ]
     },
     {
-      "markerName": "MarkerPrefab_TEST",
+      "markerName": "IDGM_QR_Code",
       "pinDrops": [
         {
-          "shotNumber": "32",
+          "shotNumber": "1",
           "position": {
-            "x": 0.0,
-            "y": 0.3407999873161316,
-            "z": 0.0
+            "x": 2.700000047683716,
+            "y": 0.0,
+            "z": 7.659999847412109
           },
           "rotation": {
             "x": 0.0,
-            "y": 0.0,
+            "y": 177.50717163085938,
             "z": 0.0
           },
-          "scale": 0.02500000037252903,
+          "scale": 0.25,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "2",
+          "position": {
+            "x": 2.945063829421997,
+            "y": 0.0,
+            "z": 5.977027893066406
+          },
+          "rotation": {
+            "x": 0.36595726013183596,
+            "y": 178.711669921875,
+            "z": 358.234619140625
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "3",
+          "position": {
+            "x": 1.5800013542175294,
+            "y": 0.0,
+            "z": -0.35000157356262209
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 304.10546875,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "7",
+          "position": {
+            "x": 0.4799056649208069,
+            "y": 0.0,
+            "z": 7.740113735198975
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 348.0896301269531,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "10",
+          "position": {
+            "x": 1.5800000429153443,
+            "y": 0.0,
+            "z": -5.059999942779541
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 319.0234375,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "14",
+          "position": {
+            "x": 2.9800000190734865,
+            "y": 0.0,
+            "z": 4.300000190734863
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 304.0806579589844,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "15",
+          "position": {
+            "x": 0.015000339597463608,
+            "y": 0.0,
+            "z": 1.5
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 319.0234375,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "16",
+          "position": {
+            "x": 1.2800768613815308,
+            "y": 0.0,
+            "z": 4.440091609954834
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 319.0234375,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "18",
+          "position": {
+            "x": 0.8679999709129334,
+            "y": 0.0,
+            "z": 5.760000228881836
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 348.4678955078125,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "24",
+          "position": {
+            "x": 1.1100000143051148,
+            "y": 0.0,
+            "z": -2.930000066757202
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 319.0234375,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "27",
+          "position": {
+            "x": 1.5579999685287476,
+            "y": 0.0,
+            "z": 1.5230000019073487
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 329.846435546875,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "51",
+          "position": {
+            "x": -0.09000000357627869,
+            "y": 0.0,
+            "z": -2.440000057220459
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 270.27008056640627,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "53",
+          "position": {
+            "x": -0.1599999964237213,
+            "y": 0.0,
+            "z": 4.449999809265137
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 18.06147003173828,
+            "z": 0.0
+          },
+          "scale": 0.25,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
         }
       ]
     }
