@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-24T11:37:35Z",
+  "lastUpdated": "2025-10-24T14:44:28Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
@@ -502,7 +502,7 @@
             "y": 177.50717163085938,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -526,7 +526,7 @@
             "y": 178.711669921875,
             "z": 358.234619140625
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -550,7 +550,7 @@
             "y": 304.10546875,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -574,7 +574,7 @@
             "y": 348.0896301269531,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -598,7 +598,7 @@
             "y": 319.0234375,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -622,7 +622,7 @@
             "y": 304.0806579589844,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -646,7 +646,7 @@
             "y": 319.0234375,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -670,7 +670,7 @@
             "y": 319.0234375,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -694,7 +694,7 @@
             "y": 348.4678955078125,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -718,7 +718,7 @@
             "y": 319.0234375,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -742,7 +742,7 @@
             "y": 329.846435546875,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -766,7 +766,7 @@
             "y": 270.27008056640627,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -790,7 +790,36 @@
             "y": 18.06147003173828,
             "z": 0.0
           },
-          "scale": 0.025,
+          "scale": 0.02500000037252903,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        }
+      ]
+    },
+    {
+      "markerName": "MarkerPrefab_TEST",
+      "pinDrops": [
+        {
+          "shotNumber": "32",
+          "position": {
+            "x": 0.0,
+            "y": 0.3407999873161316,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": 0.02500000037252903,
           "videoPositionOffset": {
             "x": 0.0,
             "y": 0.0,
