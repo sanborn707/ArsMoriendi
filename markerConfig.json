@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-24T14:44:28Z",
+  "lastUpdated": "2025-10-25T16:00:04Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
@@ -485,6 +485,78 @@
           "expandAngle": 30.0,
           "contractAngle": 45.0
         }
+      ],
+      "occlusionWalls": [
+        {
+          "position": {
+            "x": -2.569999933242798,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "width": 8.800000190734864,
+          "height": 1.0
+        },
+        {
+          "position": {
+            "x": -2.569999933242798,
+            "y": 0.0,
+            "z": 8.210000038146973
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "width": 8.800000190734864,
+          "height": 1.0
+        },
+        {
+          "position": {
+            "x": -6.75,
+            "y": 0.0,
+            "z": 4.190000057220459
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          },
+          "width": 8.800000190734864,
+          "height": 1.0
+        },
+        {
+          "position": {
+            "x": 1.3300000429153443,
+            "y": 0.0,
+            "z": 5.815000057220459
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          },
+          "width": 4.840263843536377,
+          "height": 1.0
+        },
+        {
+          "position": {
+            "x": 1.3300000429153443,
+            "y": 0.0,
+            "z": 1.0709999799728394
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          },
+          "width": 2.509047508239746,
+          "height": 1.0
+        }
       ]
     },
     {
@@ -802,6 +874,9 @@
           "expandAngle": 30.0,
           "contractAngle": 30.0
         }
+      ],
+      "occlusionWalls": [
+        
       ]
     },
     {
@@ -816,7 +891,7 @@
           },
           "rotation": {
             "x": 0.0,
-            "y": 180.0,
+            "y": 0.0,
             "z": 0.0
           },
           "scale": 0.02500000037252903,
@@ -826,11 +901,14 @@
             "z": 0.0
           },
           "videoScale": 2.0,
-          "expandDistance": 0.5,
+          "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
-          "contractAngle": 60.0
+          "contractAngle": 30.0
         }
+      ],
+      "occlusionWalls": [
+        
       ]
     }
   ]
