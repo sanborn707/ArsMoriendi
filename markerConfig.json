@@ -1,9 +1,26 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-25T16:00:04Z",
+  "lastUpdated": "2025-10-25T19:17:40Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
+      "masterMarker": "MarkerPrefab_StudioOffice_test",
+      "secondaryAnchors": [
+        {
+          "markerImageName": "",
+          "relativePosition": {
+            "x": -4.248000144958496,
+            "y": -0.30300000309944155,
+            "z": 4.201000213623047
+          },
+          "relativeRotation": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          },
+          "validationTolerance": 0.5
+        }
+      ],
       "pinDrops": [
         {
           "shotNumber": "6",
@@ -561,6 +578,10 @@
     },
     {
       "markerName": "IDGM_QR_Code",
+      "masterMarker": "",
+      "secondaryAnchors": [
+        
+      ],
       "pinDrops": [
         {
           "shotNumber": "1",
@@ -881,6 +902,10 @@
     },
     {
       "markerName": "MarkerPrefab_TEST",
+      "masterMarker": "",
+      "secondaryAnchors": [
+        
+      ],
       "pinDrops": [
         {
           "shotNumber": "32",
