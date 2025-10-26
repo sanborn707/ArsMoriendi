@@ -1,17 +1,31 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-25T19:17:40Z",
+  "lastUpdated": "2025-10-25T20:27:46Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
       "masterMarker": "MarkerPrefab_StudioOffice_test",
       "secondaryAnchors": [
         {
-          "markerImageName": "",
+          "markerImageName": "ARSMORIENDIQR1v1",
           "relativePosition": {
             "x": -4.248000144958496,
             "y": -0.30300000309944155,
             "z": 4.201000213623047
+          },
+          "relativeRotation": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          },
+          "validationTolerance": 0.5
+        },
+        {
+          "markerImageName": "ARSMORIENDIQR1v2",
+          "relativePosition": {
+            "x": 1.5700000524520875,
+            "y": -0.30300000309944155,
+            "z": 5.0
           },
           "relativeRotation": {
             "x": 0.0,
