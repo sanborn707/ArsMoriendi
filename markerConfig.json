@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-30T16:21:43Z",
+  "lastUpdated": "2025-10-30T16:50:51Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
@@ -1412,6 +1412,30 @@
           "rotation": {
             "x": 0.0,
             "y": 0.0,
+            "z": 0.0
+          },
+          "scale": 0.02499999850988388,
+          "videoPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "videoScale": 2.0,
+          "expandDistance": 1.0,
+          "contractDistance": 1.5,
+          "expandAngle": 30.0,
+          "contractAngle": 30.0
+        },
+        {
+          "shotNumber": "57B",
+          "position": {
+            "x": -2.322999954223633,
+            "y": 0.0,
+            "z": -1.3730000257492066
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 208.7540283203125,
             "z": 0.0
           },
           "scale": 0.02499999850988388,
