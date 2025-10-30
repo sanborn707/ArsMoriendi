@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-30T16:50:51Z",
+  "lastUpdated": "2025-10-30T16:57:58Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
@@ -1355,7 +1355,7 @@
           "contractAngle": 30.0
         },
         {
-          "shotNumber": "53",
+          "shotNumber": "53A",
           "position": {
             "x": -1.0989999771118165,
             "y": 0.0,
