@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-30T14:24:15Z",
+  "lastUpdated": "2025-10-30T14:50:06Z",
   "markers": [
     {
       "markerName": "MarkerPrefab_StudioOffice_test",
@@ -628,7 +628,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -661,7 +661,7 @@
         {
           "shotNumber": "6",
           "position": {
-            "x": -5.197000026702881,
+            "x": -5.047999858856201,
             "y": 0.0,
             "z": -6.061999797821045
           },
@@ -676,7 +676,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -748,7 +748,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -757,9 +757,9 @@
         {
           "shotNumber": "12",
           "position": {
-            "x": -5.371000289916992,
+            "x": -5.370999813079834,
             "y": 0.0,
-            "z": -2.5819997787475588
+            "z": -3.3269999027252199
           },
           "rotation": {
             "x": 0.0,
@@ -772,7 +772,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -844,7 +844,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -868,7 +868,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -892,7 +892,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -940,7 +940,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -949,7 +949,7 @@
         {
           "shotNumber": "24",
           "position": {
-            "x": 0.06300008296966553,
+            "x": 0.15700000524520875,
             "y": 0.0,
             "z": -5.796000003814697
           },
@@ -1228,7 +1228,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -1276,7 +1276,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -1285,7 +1285,7 @@
         {
           "shotNumber": "48",
           "position": {
-            "x": 0.8350000381469727,
+            "x": 0.6650000214576721,
             "y": 0.0,
             "z": -3.7239999771118166
           },
@@ -1324,7 +1324,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
@@ -1492,7 +1492,7 @@
             "y": 0.0,
             "z": 0.0
           },
-          "videoScale": 2.0,
+          "videoScale": 4.0,
           "expandDistance": 1.0,
           "contractDistance": 1.5,
           "expandAngle": 30.0,
